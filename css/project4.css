@@ -1,0 +1,28 @@
+/*Add your CSS below!*/
+
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height:100px;
+	width:100px;
+	border-radius:100%;
+	border:2px solid black;
+	
+}
+.friend {
+    border:3px solid #33ddff;
+}
+.family {
+    border:3px solid #F067F0;
+}
+.other_friend {
+    border:3px solid #17FC8D;
+}
+.me {
+    border:3px solid #7F17FC;
+}
+img {
+    height:100px;
+    width:100px;
+    border-radius:100%;
+}
