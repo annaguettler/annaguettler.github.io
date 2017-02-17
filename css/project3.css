@@ -11,24 +11,24 @@ p {
 	font-size: 18px;
 }
 
+/*Start adding your CSS below!*/
 div {
-	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
-	height: 50px;
-	width: 120px;
-	margin: auto;
-	text-align: center;
+    height:45px;
+    width:110px;
+    border-color:#000000;
+    background-color:#000000;
+    border-radius:8px;
+    margin:auto;
+    text-align:center;
 }
-
 a {
-	text-decoration: none;
-	color: #3D59AB;
-	font-family: Verdana, sans-serif;
+    font-family:Impact;
+    text-decoration:none;
+    color:#ffffff;
+}
+span {
+    font-family:Impact;
+    color:#d37ad8;
 }
 
-span {
-	font-weight: bold;
-	font-size: 18px;
-	color: #ffffff;
-}
+
